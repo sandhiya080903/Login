@@ -1,0 +1,42 @@
+
+body{
+    background-color: rgb(124, 38, 204);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.main{
+    width: 300px;
+    height: 500px;
+    background-color: rgb(199, 151, 243);
+    border-radius: 15px;
+margin-top: 100px;
+
+}
+.cutie{
+    width: 100%;
+    height: 40%;
+border-top-right-radius: 15px;
+border-top-left-radius: 15px;
+
+}
+.detail{
+    padding: 15px;
+}
+.anime{
+    width: 60px;
+    height: 60px;
+border-radius: 50%;
+margin-top: 30px;
+}
+.final{
+    display: flex;
+}
+h5{
+    color: gray;
+
+}
+h3{
+    margin-top: 30px;
+}

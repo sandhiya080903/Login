@@ -1,0 +1,23 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+body{
+    width:100vw;
+    height:200vh;
+    background-color:  hsl(47, 88%, 63%);
+
+}
+
+.imag{
+    width:300px;
+    height: 400px;
+
+}
+.imag img{
+    height: 20%;
+}
